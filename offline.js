@@ -1,0 +1,33 @@
+﻿{
+	"version": 1709267806,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/ship-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite4-sheet1.png",
+		"images/sprite4-sheet2.png",
+		"images/laserremovebgpreview-sheet0.png",
+		"images/batu-sheet0.png",
+		"images/batu-sheet1.png",
+		"images/batu-sheet2.png",
+		"images/particles.png",
+		"images/particles2.png",
+		"images/particles3.png",
+		"images/sprite5-sheet0.png",
+		"images/berdarah-sheet0.png",
+		"images/pinggir-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
